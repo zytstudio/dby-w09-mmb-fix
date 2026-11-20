@@ -18,7 +18,7 @@
 
 Magisk Module for Matepad 11 (2021, DBY-W09) Mouse Middle Button Fix.
 
-In some Huawei devices, mouse middle button would be mapped as back and recent apps button (double-click). This module aims to recover the original function of mouse middle button.
+On some Huawei devices, mouse middle button would be mapped as back and recent apps button (double-click). This module aims to recover the original function of mouse middle button.
 
 ## Usage
 
